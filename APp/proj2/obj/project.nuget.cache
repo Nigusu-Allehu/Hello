@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "dgSpecHash": "73gAVsiQYYQ=",
+  "success": true,
+  "projectFilePath": "C:\\n\\trash\\Hello\\APp\\proj2\\proj2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nyenework\\.nuget\\packages\\jquery\\2.1.4\\jquery.2.1.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'jQuery' 2.1.4 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-6c3j-c64m-qhgq",
+      "libraryId": "jQuery",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'jQuery' 2.1.4 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-gxr4-xjj5-5px2",
+      "libraryId": "jQuery",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'jQuery' 2.1.4 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-jpcq-cgw6-v4j6",
+      "libraryId": "jQuery",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'jQuery' 2.1.4 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-rmxg-73gg-4p98",
+      "libraryId": "jQuery",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
