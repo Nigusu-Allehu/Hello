@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net8.0": {
+      "jQuery": {
+        "type": "Direct",
+        "requested": "[2.1.4, )",
+        "resolved": "2.1.4",
+        "contentHash": "X8mRMt2HNI6kxYMWyQEcOumpAzEAs95DWSjM6FlX3DEVM5afuj8Abj0Y6i6H9wK7I7n3bJ0fnDA80OfKV19HQA=="
+      }
+    }
+  }
+}
